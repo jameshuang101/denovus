@@ -68,10 +68,10 @@ In-Game “Progress” Menu: Shows history of each mini-game with date/time, sco
 This combined hardware-software approach—melding a low-cost Bluetooth-enabled sensor glove with an adaptive VR mini-game suite and built-in progress tracking—represents a novel, accessible path toward engaging, quantified at-home stroke rehabilitation.
 
 # Acknowledgements
-The work in this repository is directly related to the 2020 UTDesign Capstone project titled *Denovus: Virtual Reality Assisted Rehabilitation for Stroke Patient Therapy* which won third place in the capstone competition.
+This work is directly related to the 2020 UTDesign Capstone project titled *Denovus: Virtual Reality Assisted Rehabilitation for Stroke Patient Therapy* which won third place in the capstone competition.
 
-Poster: [Infographic_DENOVUS.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194727/Infographic_DENOVUS.pdf)
+**Poster**: [Infographic_DENOVUS.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194727/Infographic_DENOVUS.pdf)
 
-Demo Video: https://www.youtube.com/watch?v=5rdVQwTPSA4
+**Demo Video**: https://www.youtube.com/watch?v=5rdVQwTPSA4
 
-Project Report: [Denovus_FinalProjectReport.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194708/Denovus_FinalProjectReport.pdf)
+**Project Report**: [Denovus_FinalProjectReport.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194708/Denovus_FinalProjectReport.pdf)
