@@ -45,10 +45,9 @@ A project aimed at creating a virtual reality (VR) game-based application for up
 * **Adaptive Difficulty**: User-selectable slider; game logic scales number/speed of targets based on prior performance.
 
 # Progress Tracking & Data Management
+![image](https://github.com/user-attachments/assets/202b4705-2425-42c8-8ca4-010ef16faafa)
 
 In-Game “Progress” Menu: Shows history of each mini-game with date/time, score, duration, and actual force/flex values (converted via polynomial calibration curves).
-
-Data Flow (Figure 23):
 
 # Key Innovations
 
