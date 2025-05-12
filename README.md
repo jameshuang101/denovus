@@ -18,6 +18,7 @@ A project aimed at creating a virtual reality (VR) game-based application for up
 # Sensor Glove & Bluetooth Interface
 
 ### Hardware
+![image](https://github.com/user-attachments/assets/731e0c89-2091-4444-b7a9-bc90371a809e)
 
   * **Sensors**: Five Tekscan FlexiForce pressure sensors (0–25 lb range) plus Adafruit flex sensors for finger bend.
 
@@ -25,7 +26,7 @@ A project aimed at creating a virtual reality (VR) game-based application for up
 
   * **Power**: Nightshade energyShield battery pack (~6 hr runtime at 10 ms update).
 
-  * **Enclosure**: 3D-printed housing on forearm, neoprene-sewn glove sleeve for comfort and stability .
+  * **Enclosure**: 3D-printed housing on forearm, neoprene-sewn glove sleeve for comfort and stability.
 
 ### Bluetooth Communication
 
@@ -34,6 +35,8 @@ A project aimed at creating a virtual reality (VR) game-based application for up
   * **Auto-Reconnect**: On app startup, a BluetoothManager in the Unity VR app searches for and reconnects to the glove, then polls its serial feed every frame or at a set interval.
 
 # VR Application & Mini-Games
+![image](https://github.com/user-attachments/assets/ae4e77fa-d3c0-4ae6-b3fd-89abe115d545)
+![image](https://github.com/user-attachments/assets/e72ed3a0-1d25-4962-a737-59a6a638fb41)
 
 * **Environment**: Calming nature scene, table-calibration on startup for real-world safety.
 
