@@ -1,5 +1,5 @@
 # What is Denovus?
-A project aimed at creating a virtual reality (VR) game-based application for upper-extremity physical therapy
+A virtual reality (VR) game-based application for upper-extremity physical therapy with real-time flexion and force measurements of the hands with a custom sensor glove and progress-tracking over time
 
 ![Infographic_DENOVUS](https://user-images.githubusercontent.com/130106532/231019294-e4408248-ab27-4c66-be00-d2fd1992c6c8.png)
 
@@ -65,10 +65,13 @@ In-Game “Progress” Menu: Shows history of each mini-game with date/time, sco
 
 * **User Feedback**: Informal testing showed measurable fatigue/soreness and small strength gains over repeated sessions.
 
-This combined hardware-software approach—melding a low-cost Bluetooth-enabled sensor glove with an adaptive VR mini-game suite and built-in progress tracking—represents a novel, accessible path toward engaging, quantified at-home stroke rehabilitation. This project won third place in the UTDesign Capstone Competition in 2020.
+This combined hardware-software approach—melding a low-cost Bluetooth-enabled sensor glove with an adaptive VR mini-game suite and built-in progress tracking—represents a novel, accessible path toward engaging, quantified at-home stroke rehabilitation.
 
-Poster PDF: [Infographic_DENOVUS.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194727/Infographic_DENOVUS.pdf)
+# Acknowledgements
+The work in this repository is directly related to the 2020 UTDesign Capstone project titled *Denovus: Virtual Reality Assisted Rehabilitation for Stroke Patient Therapy* which won third place in the capstone competition.
 
-Demonstration Video Link: https://www.youtube.com/watch?v=5rdVQwTPSA4
+Poster: [Infographic_DENOVUS.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194727/Infographic_DENOVUS.pdf)
+
+Demo Video: https://www.youtube.com/watch?v=5rdVQwTPSA4
 
 Project Report: [Denovus_FinalProjectReport.pdf](https://github.com/jameshuang101/Denovus-Physical-Therapy/files/11194708/Denovus_FinalProjectReport.pdf)
