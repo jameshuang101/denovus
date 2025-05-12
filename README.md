@@ -35,7 +35,7 @@ A project aimed at creating a virtual reality (VR) game-based application for up
   * **Auto-Reconnect**: On app startup, a BluetoothManager in the Unity VR app searches for and reconnects to the glove, then polls its serial feed every frame or at a set interval.
 
 # VR Application & Mini-Games
-![image](https://github.com/user-attachments/assets/ae4e77fa-d3c0-4ae6-b3fd-89abe115d545)
+![image](https://github.com/user-attachments/assets/e2a6f132-ef04-4ed6-b99a-a3212200ba90)
 ![image](https://github.com/user-attachments/assets/e72ed3a0-1d25-4962-a737-59a6a638fb41)
 
 * **Environment**: Calming nature scene, table-calibration on startup for real-world safety.
